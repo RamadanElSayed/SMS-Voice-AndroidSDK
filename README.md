@@ -1,4 +1,9 @@
 
+    //add permissions to manifest
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    
+  
     private class OTS_AsyncTask extends AsyncTask<String, Void, String> {
 
         @Override
