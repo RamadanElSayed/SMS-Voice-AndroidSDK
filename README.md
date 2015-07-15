@@ -1,3 +1,10 @@
+OTS REST API for Android
+A simple HTTP based RESTful API library will enable your apps to send emails and sms messages, make phone calls, and setup two-factor authentication through OTS Cloud Communication Platform
+Installation
+If you want to compile it yourself, here's the source:
+$ git clone https://github.com/otsdc/SMS-Voice-AndroidSDK
+Example
+Here is the example to Use Message API
 
     //add permissions to manifest
     <uses-permission android:name="android.permission.INTERNET"/>
